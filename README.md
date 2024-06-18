@@ -16,3 +16,6 @@ To implement this code, you can -
 * https://github.com/loicmarie/sign-language-alphabet-recognizer/archive/refs/heads/master.zip
 * https://discuss.pytorch.org/t/using-imagefolder-random-split-with-multiple-transforms/79899/4
 * https://www.kaggle.com/leifuer/intro-to-pytorch-loading-image-data
+
+
+![ASL Images](https://github.com/lester48/American-Sign-Language-Detection/assets/85408008/ea3dac80-3881-4c0e-a764-4d1517b2b07a)
